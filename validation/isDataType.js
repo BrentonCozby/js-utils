@@ -1,3 +1,5 @@
+// From https://webbjocke.com/javascript-check-data-types/
+
 function isBoolean (value) {
     return typeof value === 'boolean'
 }
