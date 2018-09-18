@@ -1,0 +1,14 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "JavaScript Utilities",
+  "main": "index.js",
+  "repository": "https://github.com/BrentonCozby/js-utils.git",
+  "author": "Brenton Cozby <brenton.cozby@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "camelcase": "^5.0.0",
+    "decamelize": "^2.0.0",
+    "sanitize-html": "^1.19.0"
+  }
+}
