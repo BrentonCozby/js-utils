@@ -1,4 +1,4 @@
-const camelCase = require('camelCase')
+const camelCase = require('camelcase')
 
 function camelCaseMapKeys(map) {
   if (!map) {
