@@ -1,9 +1,9 @@
 {
-  "name": "js-utils",
+  "name": "brenton-js-utils",
   "version": "1.0.0",
   "description": "JavaScript Utilities",
   "main": "index.js",
-  "repository": "https://github.com/BrentonCozby/js-utils.git",
+  "repository": "https://github.com/BrentonCozby/brenton-js-utils.git",
   "author": "Brenton Cozby <brenton.cozby@gmail.com>",
   "license": "MIT",
   "dependencies": {

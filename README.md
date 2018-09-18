@@ -1,2 +1,2 @@
-# js-utils
+# brenton-js-utils
 JavaScript utilities.
