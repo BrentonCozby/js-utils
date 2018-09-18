@@ -1,11 +1,18 @@
+// misc
 module.exports.to = require('./misc/to')
+
+// strings
 module.exports.camelCaseMapKeys = require('./strings/camelCaseMapKeys')
 module.exports.decamelizeList = require('./strings/decamelizeList')
 module.exports.sanitizeHtmlList = require('./strings/sanitizeHtmlList')
 module.exports.sortString = require('./strings/sortString')
 module.exports.stringIncludes = require('./strings/stringIncludes')
+
+// traversal
 module.exports.traverseDeep = require('./traversal/traverseDeep')
 module.exports.traverseWide = require('./traversal/traverseWide')
+
+// validation
 module.exports.includesEvery = require('./validation/includesEvery')
 module.exports.includesOneOf = require('./validation/includesOneOf')
 module.exports.validateRequiredValues = require('./validation/validateRequiredValues')
