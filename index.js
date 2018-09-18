@@ -1,5 +1,6 @@
 // misc
 module.exports.to = require('./misc/to')
+module.exports.copyJson = require('./misc/copyJson')
 
 // strings
 module.exports.camelCaseMapKeys = require('./strings/camelCaseMapKeys')
