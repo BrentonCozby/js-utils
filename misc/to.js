@@ -1,11 +1,7 @@
-function to(promise, logError) {
+function to(promise) {
     return promise
     .then(data => [null, data])
     .catch(err => {
-        if (logError) {
-            console.error(err)
-        }
-
         return [err]
     })
 }
